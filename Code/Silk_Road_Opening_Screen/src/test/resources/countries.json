@@ -1,0 +1,145 @@
+[{
+        "post": {
+            "name": "Europe",
+            "buildCost": 5.0,
+            "canSell": {
+                "items": ["fur", "citrus", "livestock", "incense", "saffron", "ivory", "silk", "glass"],
+                "cost": [0.0, 8.0, 13.0, 6.0, 5.0, 12.0, 15.0, 17.0]
+            },
+            "canBuy": {
+                "items": ["fur"],
+                "cost": [1.0]
+            },
+            "buildMaterials": {
+                "items": ["fur"],
+                "qty": [1]
+            }
+        }
+    },
+    {
+        "post": {
+            "name": "Egypt",
+            "buildCost": 5.0,
+            "canSell": {
+                "items": ["fur", "citrus", "livestock", "incense", "saffron", "ivory", "silk", "glass"],
+                "cost": [8.0, 0.0, 5.0, 2.0, 3.0, 10.0, 13.0, 15.0]
+            },
+            "canBuy": {
+                "items": ["citrus"],
+                "cost": [1.0]
+            },
+            "buildMaterials": {
+                "items": ["citrus"],
+                "qty": [1]
+            }
+        }
+    },
+    {
+        "post": {
+            "name": "Somalia",
+            "buildCost": 5.0,
+            "canSell": {
+                "items": ["fur", "citrus", "livestock", "incense", "saffron", "ivory", "silk", "glass"],
+                "cost": [13.0, 5.0, 0.0, 7.0, 8.0, 15.0, 18.0, 20.0]
+            },
+            "canBuy": {
+                "items": ["livestock"],
+                "cost": [1.0]
+            },
+            "buildMaterials": {
+                "items": ["livestock"],
+                "qty": [1]
+            }
+        }
+    },
+    {
+        "post": {
+            "name": "Arabia",
+            "buildCost": 5.0,
+            "canSell": {
+                "items": ["fur", "citrus", "livestock", "incense", "saffron", "ivory", "silk", "glass"],
+                "cost": [6.0, 2.0, 7.0, 0.0, 1.0, 8.0, 11.0, 13.0]
+            },
+            "canBuy": {
+                "items": ["incense"],
+                "cost": [1.0]
+            },
+            "buildMaterials": {
+                "items": ["incense"],
+                "qty": [1]
+            }
+        }
+    },
+    {
+        "post": {
+            "name": "Persia",
+            "buildCost": 5.0,
+            "canSell": {
+                "items": ["fur", "citrus", "livestock", "incense", "saffron", "ivory", "silk", "glass"],
+                "cost": [5.0, 3.0, 8.0, 1.0, 0.0, 7.0, 10.0, 12.0]
+            },
+            "canBuy": {
+                "items": ["saffron"],
+                "cost": [1.0]
+            },
+            "buildMaterials": {
+                "items": ["saffron"],
+                "qty": [1]
+            }
+        }
+    },
+    {
+        "post": {
+            "name": "India",
+            "buildCost": 5.0,
+            "canSell": {
+                "items": ["fur", "citrus", "livestock", "incense", "saffron", "ivory", "silk", "glass"],
+                "cost": [12.0, 10.0, 15.0, 8.0, 7.0, 0.0, 3.0, 5.0]
+            },
+            "canBuy": {
+                "items": ["ivory"],
+                "cost": [1.0]
+            },
+            "buildMaterials": {
+                "items": ["ivory"],
+                "qty": [1]
+            }
+        }
+    },
+    {
+        "post": {
+            "name": "China",
+            "buildCost": 5.0,
+            "canSell": {
+                "items": ["fur", "citrus", "livestock", "incense", "saffron", "ivory", "silk", "glass"],
+                "cost": [15.0, 13.0, 18.0, 11.0, 10.0, 3.0, 0.0, 5.0]
+            },
+            "canBuy": {
+                "items": ["silk"],
+                "cost": [1.0]
+            },
+            "buildMaterials": {
+                "items": ["silk"],
+                "qty": [1]
+            }
+        }
+    },
+    {
+        "post": {
+            "name": "Java",
+            "buildCost": 5.0,
+            "canSell": {
+                "items": ["fur", "citrus", "livestock", "incense", "saffron", "ivory", "silk", "glass"],
+                "cost": [17.0, 15.0, 20.0, 13.0, 12.0, 5.0, 5.0, 0.0]
+            },
+            "canBuy": {
+                "items": ["glass"],
+                "cost": [1.0]
+            },
+            "buildMaterials": {
+                "items": ["glass"],
+                "qty": [1]
+            }
+        }
+    }
+]

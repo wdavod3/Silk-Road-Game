@@ -1,0 +1,81 @@
+[{
+        "post": {
+            "name": "Europe",
+            "buildCost": 5.0,
+            "buildMaterials": {
+                "items": ["fur"],
+                "qty": [1]
+            }
+        }
+    },
+    {
+        "post": {
+            "name": "Egypt",
+            "buildCost": 5.0,
+            "buildMaterials": {
+                "items": ["citrus"],
+                "qty": [1]
+            }
+        }
+    },
+    {
+        "post": {
+            "name": "Somalia",
+            "buildCost": 5.0,
+            "buildMaterials": {
+                "items": ["livestock"],
+                "qty": [1]
+            }
+        }
+    },
+    {
+        "post": {
+            "name": "Arabia",
+            "buildCost": 5.0,
+            "buildMaterials": {
+                "items": ["incense"],
+                "qty": [1]
+            }
+        }
+    },
+    {
+        "post": {
+            "name": "Persia",
+            "buildCost": 5.0,
+            "buildMaterials": {
+                "items": ["saffron"],
+                "qty": [1]
+            }
+        }
+    },
+    {
+        "post": {
+            "name": "India",
+            "buildCost": 5.0,
+            "buildMaterials": {
+                "items": ["ivory"],
+                "qty": [1]
+            }
+        }
+    },
+    {
+        "post": {
+            "name": "China",
+            "buildCost": 5.0,
+            "buildMaterials": {
+                "items": ["silk"],
+                "qty": [1]
+            }
+        }
+    },
+    {
+        "post": {
+            "name": "Java",
+            "buildCost": 5.0,
+            "buildMaterials": {
+                "items": ["glass"],
+                "qty": [1]
+            }
+        }
+    }
+]

@@ -1,0 +1,20 @@
+BorderPane {
+    -fx-border-width: 10;
+    -fx-border-color: #E9CD4C;
+    -fx-background-color: #36563C;
+}
+
+Button {
+    -fx-font-family: "Times New Roman", Times, serif;
+    -fx-background-color: #E9CD4C;
+    -fx-font-size: 25;
+    -fx-padding: 10;
+    -fx-background-radius: 5;
+    -fx-effect: dropshadow(three-pass-box, rgba(0,0,0,0.8), 10, 0, 0, 0);
+    -fx-text-fill: #787878;
+}
+
+Label {
+    -fx-font-family: "Times New Roman", Times, serif;
+    -fx-text-fill: #787878;
+}

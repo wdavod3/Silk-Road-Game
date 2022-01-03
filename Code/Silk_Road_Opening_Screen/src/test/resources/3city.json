@@ -1,0 +1,43 @@
+[{
+        "city": {
+            "name": "Rome",
+            "location": [0, 4],
+            "canSell": {
+                "items": ["grain", "silk", "saffron"],
+                "cost": [1.0, 20.0, 7.0]
+            },
+            "canBuy": {
+                "items": ["grain"],
+                "cost": [2.0]
+            }
+        }
+    },
+    {
+        "city": {
+            "name": "Han",
+            "location": [18, 3],
+            "canSell": {
+                "items": ["grain", "silk", "saffron"],
+                "cost": [5.0, 5.0, 9.0]
+            },
+            "canBuy": {
+                "items": ["silk"],
+                "cost": [10.0]
+            }
+        }
+    },
+    {
+        "city": {
+            "name": "Parthian",
+            "location": [5, 6],
+            "canSell": {
+                "items": ["grain", "silk", "saffron"],
+                "cost": [4.0, 15.0, 3.0]
+            },
+            "canBuy": {
+                "items": ["saffron"],
+                "cost": [5.0]
+            }
+        }
+    }
+]

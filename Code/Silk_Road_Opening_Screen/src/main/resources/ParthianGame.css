@@ -1,0 +1,15 @@
+BorderPane {
+    -fx-border-width: 10;
+    -fx-background-color: #7DB9DE;
+}
+
+Button {
+    -fx-font-family: "Times New Roman", Times, serif;
+    -fx-background-color: #70649A;
+    -fx-text-fill: #4F4F48;
+}
+
+Label {
+    -fx-font-family: "Times New Roman", Times, serif;
+    -fx-text-fill: #4F4F48;
+}

@@ -1,0 +1,43 @@
+[{
+        "city": {
+            "name": "Aksu",
+            "location": [0, 4],
+            "canSell": {
+                "items": ["silk", "tea", "spices", "sugar", "salt", "porcelain"],
+                "cost": [1.0, 2.0, 3.0, 4.0, 5.0, 6.0]
+            },
+            "canBuy": {
+                "items": ["silk", "tea"],
+                "cost": [1.0, 2.0]
+            }
+        }
+    },
+    {
+        "city": {
+            "name": "Osh",
+            "location": [0, 4],
+            "canSell": {
+                "items": ["silk", "tea", "spices", "sugar", "salt", "porcelain"],
+                "cost": [1000.0, 2000.0, 3000.0, 4000.0, 5000.0, 6000.0]
+            },
+            "canBuy": {
+                "items": ["sugar", "salt"],
+                "cost": [5000.0, 6000.0]
+            }
+        }
+    },
+    {
+        "city": {
+            "name": "defaultPlace",
+            "location": [0, 4],
+            "canSell": {
+                "items": ["silk", "tea", "spices", "sugar", "salt", "porcelain"],
+                "cost": [1000.0, 2000.0, 3000.0, 4000.0, 5000.0, 6000.0]
+            },
+            "canBuy": {
+                "items": ["sugar", "salt"],
+                "cost": [5000.0, 6000.0]
+            }
+        }
+    }
+]

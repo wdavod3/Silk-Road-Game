@@ -1,0 +1,31 @@
+[{
+        "post": {
+            "name": "Rome",
+            "buildCost": 5.0,
+            "buildMaterials": {
+                "items": ["grain"],
+                "qty": [1]
+            }
+        }
+    },
+    {
+        "post": {
+            "name": "Han",
+            "buildCost": 100.0,
+            "buildMaterials": {
+                "items": ["silk"],
+                "qty": [10]
+            }
+        }
+    },
+    {
+        "post": {
+            "name": "Parthian",
+            "buildCost": 100.0,
+            "buildMaterials": {
+                "items": ["saffron"],
+                "qty": [5]
+            }
+        }
+    }
+]
